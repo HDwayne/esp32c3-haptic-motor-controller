@@ -1,0 +1,8 @@
+CHANGES for Triboard-TC3X7-Extension
+=====================================
+
+Initial release
+
+- 2024-04-27:
+  - Project published under CERN-OHL-P v2 license.
+  - Initial clean commit with latest hardware design files V1.0.
